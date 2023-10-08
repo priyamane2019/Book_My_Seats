@@ -1,0 +1,54 @@
+{
+    
+    "seatingLayout_A":[
+        { "id": 1, "type": "Standard", "number": "A1", "available": true , "seatimg":"images/seatlogo.png" },
+        { "id": 2, "type": "Standard", "number": "A2", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 3, "type": "Standard", "number": "A3", "available": true, "seatimg":"images/seatlogo.png"},
+        { "id": 4, "type": "Standard", "number": "A4", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 5, "type": "Standard", "number": "A5", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 6, "type": "Standard", "number": "A6", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 7, "type": "Standard", "number": "A7", "available": true,  "seatimg":"images/seatlogo.png" },
+        { "id": 8, "type": "Standard", "number": "A8", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 9, "type": "Standard", "number": "A9", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 10, "type": "Standard", "number": "A10", "available": true,  "seatimg":"images/seatlogo.png" },
+        { "id": 11, "type": "Standard", "number": "A11", "available": true,  "seatimg":"images/seatlogo.png" },
+        { "id": 12, "type": "Standard", "number": "A12", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 13, "type": "Standard", "number": "A1", "available": true , "seatimg":"images/seatlogo.png" },
+        { "id": 14, "type": "Standard", "number": "A2", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 15, "type": "Standard", "number": "A3", "available": true, "seatimg":null},
+        { "id": 16, "type": "Standard", "number": "A4", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 17, "type": "Standard", "number": "A5", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 18, "type": "Standard", "number": "A6", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 19, "type": "Standard", "number": "A7", "available": true,  "seatimg":"images/seatlogo.png" },
+        { "id": 20, "type": "Standard", "number": "A8", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 21, "type": "Standard", "number": "A9", "available": true,  "seatimg":"images/seatlogo.png"}
+        
+      ],
+      
+      
+      "seatingLayout_B":[
+        { "id": 1, "type": "Standard", "number": "A1", "available": true , "seatimg":"images/seatlogo.png" },
+        { "id": 2, "type": "Standard", "number": "A2", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 3, "type": "Standard", "number": "A3", "available": true, "seatimg":"images/seatlogo.png"},
+        { "id": 4, "type": "Standard", "number": "A4", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 5, "type": "Standard", "number": "A5", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 6, "type": "Standard", "number": "A6", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 7, "type": "Standard", "number": "A7", "available": true,  "seatimg":"images/seatlogo.png" },
+        { "id": 8, "type": "Standard", "number": "A8", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 9, "type": "Standard", "number": "A9", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 10, "type": "Standard", "number": "A10", "available": true,  "seatimg":"images/seatlogo.png" },
+        { "id": 11, "type": "Standard", "number": "A11", "available": true,  "seatimg":"images/seatlogo.png" },
+        { "id": 12, "type": "Standard", "number": "A12", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 13, "type": "Standard", "number": "A1", "available": true , "seatimg":"images/seatlogo.png" },
+        { "id": 14, "type": "Standard", "number": "A2", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 15, "type": "Standard", "number": "A3", "available": true, "seatimg":null},
+        { "id": 16, "type": "Standard", "number": "A4", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 17, "type": "Standard", "number": "A5", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 18, "type": "Standard", "number": "A6", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 19, "type": "Standard", "number": "A7", "available": true,  "seatimg":"images/seatlogo.png" },
+        { "id": 20, "type": "Standard", "number": "A8", "available": true,  "seatimg":"images/seatlogo.png"},
+        { "id": 21, "type": "Standard", "number": "A9", "available": true,  "seatimg":"images/seatlogo.png"}
+        
+      ]
+}
+  

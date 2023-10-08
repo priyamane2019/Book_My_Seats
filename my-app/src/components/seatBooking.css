@@ -1,0 +1,110 @@
+.seat-booking {
+  text-align: center;
+  margin: 20px;
+}
+
+.controls {
+  margin-left:20px;
+  padding:5px;
+}
+.check_box{
+  cursor: pointer;
+
+}
+
+.ticket_count{
+  width:150px;
+  height:30px;
+  margin:10px 20px 10px -300px;
+  border-radius: 5px;
+}
+.seats_layout
+{
+  display: flex;
+  
+}
+
+.seat-container {
+  display: grid;
+  grid-template-columns: repeat(20, 40px); /* Change the number of columns as needed */
+  gap: 10px;
+  max-width: 400px;
+  margin-left:60px;
+  margin-top: 10px;
+}
+
+.rows_name{
+  display: flex;
+  flex-direction: column;
+}
+.row_label{
+  margin-top: 10px;
+  padding-top:20px;
+  
+}
+.seat {
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: bold;
+  user-select: none;
+  transition: background-color 0.3s;
+}
+
+.seat:hover {
+  border: 2px solid green; /* Green on hover */
+}
+
+.seat.selected {
+  background-color: #4caf50; /* Green for selected seats */
+  color: white;
+}
+
+.seat.unavailable {
+  background-color: #999; /* Gray for unavailable seats */
+  cursor: not-allowed;
+}
+
+.seat.booked {
+  background-color: #ccc; /* Gray for booked seats */
+  cursor: not-allowed;
+}
+
+button {
+  width:150px;
+  height:30px;
+  margin-top: 20px;
+  margin-left:10px;
+  border-radius: 5px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+.ctime{
+  width:250px;
+  height: 30px;
+  background-color: blue;
+  color:white;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: large;
+  font-weight: 500;
+}
+.ticket_type{
+  width:200px;
+  height:30px;   
+  border:2px solid black;
+  border-radius: 5px;
+  margin-left: 10px;
+  
+}

@@ -1,0 +1,41 @@
+.App {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+  }
+  
+  .seats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+  
+  .seat {
+    width: 30px;
+    height: 30px;
+    background-color: #ccc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .seat.selected {
+    background-color: green;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
